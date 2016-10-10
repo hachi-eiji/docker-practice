@@ -7,8 +7,7 @@ defalut_name = 'Joe Bloggs'
 def get_identicion():
     name = defalut_name
 
-    html = '''
-    <html>
+    html = '''<html>
     <head><title>Identidock</title></head>
     <body>
     <form method="POST">
